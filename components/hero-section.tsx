@@ -70,7 +70,7 @@ export function HeroSection() {
   className="text-5xl md:text-7xl font-extrabold tracking-wide mb-6 text-amber-100"
 >
 
-            తాటిపల్లి హనుమాన్ మందిరం
+            తాట్‌పల్లిహనుమాన్ మందిరం
           </motion.h1>
 
           <motion.p

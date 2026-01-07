@@ -116,7 +116,7 @@ export async function startCustomDonationCheckout(
           currency: "usd",
           product_data: {
             name: "కస్టమ్ విరాళం",
-            description: "తాటిపల్లి హనుమాన్ మందిరం నిర్మాణానికి విరాళం",
+            description: "తాట్‌పల్లిహనుమాన్ మందిరం నిర్మాణానికి విరాళం",
           },
           unit_amount: amountInCents,
         },

@@ -31,7 +31,7 @@ export function StickyHeader() {
             transition={{ duration: 0.6 }}
             className="text-xl font-bold text-foreground"
           >
-            🕉️ తాటిపల్లి హనుమాన్ మందిరం
+            🕉️ తాట్‌పల్లిహనుమాన్ మందిరం
           </motion.div>
 
           <motion.div

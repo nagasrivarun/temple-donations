@@ -100,7 +100,7 @@ export function DonationCheckout({ tierId, tierName, amount, onClose }: Donation
         amount: orderData.amount,
         currency: orderData.currency,
         order_id: orderData.orderId,
-        name: "తాటిపల్లి హనుమాన్ మందిరం",
+        name: "తాట్‌పల్లిహనుమాన్ మందిరం",
         description: "మందిర నిర్మాణానికి విరాళం",
         prefill: {
           name: donorInfo.name,
